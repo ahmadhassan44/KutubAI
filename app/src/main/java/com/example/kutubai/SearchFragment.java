@@ -1,4 +1,4 @@
-package com.example.goodreads2;
+package com.example.kutubai;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -19,10 +19,7 @@ import com.android.volley.Response;
 import com.android.volley.VolleyError;
 import com.android.volley.toolbox.JsonObjectRequest;
 import com.android.volley.toolbox.Volley;
-import com.example.goodreads2.Book;
-import com.example.goodreads2.BookDetailsFragment;
-import com.example.goodreads2.R;
-import com.example.goodreads2.SearchAdapter;
+import com.example.kutubai.R;
 
 import org.json.JSONArray;
 import org.json.JSONException;

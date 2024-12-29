@@ -1,4 +1,4 @@
-package com.example.goodreads2;
+package com.example.kutubai;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -12,7 +12,7 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
-import com.example.goodreads2.R;
+import com.example.kutubai.R;
 
 import java.util.List;
 

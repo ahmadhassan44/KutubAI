@@ -1,4 +1,4 @@
-package com.example.goodreads2;
+package com.example.kutubai;
 
 import org.junit.Test;
 

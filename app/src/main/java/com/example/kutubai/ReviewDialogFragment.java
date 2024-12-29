@@ -1,7 +1,6 @@
-package com.example.goodreads2;
+package com.example.kutubai;
 
 import android.app.Dialog;
-import android.content.Context;
 import android.os.Bundle;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AlertDialog;

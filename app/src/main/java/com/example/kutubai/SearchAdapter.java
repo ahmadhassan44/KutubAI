@@ -1,5 +1,5 @@
 // SearchAdapter.java
-package com.example.goodreads2;
+package com.example.kutubai;
 
 import android.view.LayoutInflater;
 import android.view.View;

@@ -1,15 +1,14 @@
 <resources>
-    <string name="app_name">goodreads2</string>
+    <string name="app_name">KutubAI</string>
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
     <string name="hello">Hello</string>
     <string name="logout">Logout</string>
-    <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="profile">Profile</string>
     <string name="library">Library</string>
     <string name="home">Home</string>
-    <string name="goodreads">GoodReads</string>
+    <string name="goodreads">KutubAI</string>
     <string name="isbn" />
 </resources>

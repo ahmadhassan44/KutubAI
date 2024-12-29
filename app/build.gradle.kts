@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.goodreads2"
+    namespace = "com.example.kutubai"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.goodreads2"
+        applicationId = "com.example.kutubai"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

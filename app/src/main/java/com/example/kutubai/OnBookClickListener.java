@@ -1,4 +1,4 @@
-package com.example.goodreads2;
+package com.example.kutubai;
 
 public interface OnBookClickListener {
     void onBookClick(Book book);
